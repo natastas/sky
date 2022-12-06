@@ -1,0 +1,6 @@
+.coach__id-wrapper {
+    margin: 0 auto;
+    display: flex;
+    max-width: 650px;
+    justify-content: space-between;
+}
