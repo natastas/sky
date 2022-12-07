@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="html" lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,17 +10,17 @@
 </head>
 <body class="body">
     <div class="page">
-        <div class="burger-menu burger-menu_active">
+        <div class="burger-menu">
             <a href="#" class="burger-menu__button">
                 <span class="burger-menu__lines"></span>
             </a>
             <nav class="burger-menu__nav">
-                <a href="#header__link-1" class="burger-menu__link">О нас</a>
-                <a href="#header__link-2" class="burger-menu__link">Расписание</a>
-                <a href="#header__link-3" class="burger-menu__link">Цены</a>
-                <a href="#header__link-4" class="burger-menu__link">Контакты</a>
-                <a href="#header__link-5" class="burger-menu__link">Адреса</a>
-                <a href="#header__link-6" class="burger-menu__link">Сотрудники</a>
+                <a href="#about" class="burger-menu__link">О нас</a>
+                <a href="#benefits" class="burger-menu__link">Расписание</a>
+                <a href="#coach" class="burger-menu__link">Сотрудники</a>
+                <a href="#footer" class="burger-menu__link">Контакты</a>
+                <a href="#footer" class="burger-menu__link">Адреса</a>
+                
             </nav>
         </div>
         <header class="header">
@@ -28,13 +28,12 @@
                 <img class="logo" src="images/skyLogo.png">
                 <div class="header__menu"> 
                     <ul class="header__lists">
+                        <li class="header__list"><a class="header__link" href="#about">О нас</a></li>
+                        <li class="header__list"><a class="header__link" href="#benefits">Расписание</a></li>
+                        <li class="header__list"><a class="header__link" href="#coach">Сотрудники</a></li>
+                        <li class="header__list"><a class="header__link" href="#footer">Контакты</a></li>
+                        <li class="header__list"><a class="header__link" href="#footer">Адреса</a></li>
                         
-                        <li class="header__list" id="header__link-1">О нас</li>
-                        <li class="header__list" id="header__link-1">Расписание</li>
-                        <li class="header__list" id="header__link-1">Цены</li>
-                        <li class="header__list" id="header__link-1">Контакты</li>
-                        <li class="header__list" id="header__link-1">Адреса</li>
-                        <li class="header__list" id="header__link-1">Сотрудники</li>
                     </ul>
                 </div>
                 <a href="tel: +79184062670" class="header__number_link">+ 7 000 0000000</a>
@@ -50,7 +49,7 @@
                 </div>
             </div>         
         </main>
-        <section class="about">
+        <section class="about" id="about">
             <div class="about__wrapper">
                 <h2 class="about__title">
                     О НАС
@@ -60,7 +59,7 @@
                 </p>
             </div>
         </section>
-        <section class="benefits">
+        <section class="benefits" id="benefits">
             <div class="benefits__wrapper">
                 <h3 class="benefits__title">Наши преимущества</h3>
                 <div class="benefits__flex">
@@ -82,7 +81,7 @@
                 </div>
             </div>
         </section>
-        <section class="coach">
+        <section class="coach" id="coach">
             <div class="coach__wrapper">
                 <h3 class="coach__title">Наши тренеры</h3>
                 <div class="coach__id-wrapper">
@@ -99,7 +98,7 @@
                 </div>
             </div>
         </section>
-        <section class="quastions">
+        <section class="quastions" id="quastions">
             <div class="quastions__wrapper">
                 <h3 class="quastions__title">Что нужно знать перед первым занятием?</h3>
                 <div class="quastions__container">
@@ -130,7 +129,7 @@
                 </div>
             </div>
         </section>
-        <footer class="footer">
+        <footer class="footer" id="footer">
             <div class="footer__wrapper">
                 <nav class="footer__quastion">
                     <h3 class="quastion__title">Остались еще вопросы?</h3>
@@ -157,5 +156,6 @@
             </div>
         </footer>
     </div>
+    <script src="index.js"></script>
 </body>
 </html>
