@@ -25,4 +25,18 @@
     box-shadow: 0 15px 20px rgba(17, 2, 104, 0.4);
     color: white;
     transform: translateY(-5px);
-  }
+}
+
+@media screen and (max-width: 1100px) {
+    .header__number_link {
+        font-size: 18px;
+        width: 220px;
+        height: 45px;
+    }
+} 
+
+@media screen and (max-width: 920px) {
+    .header__number_link {
+        display: none;
+    }
+} 

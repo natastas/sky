@@ -55,5 +55,5 @@
 @import url(blocks/footer/__number_link/footer__number_link.css);
 @import url(blocks/footer/__link/footer__link.css);
 @import url(blocks/burger-menu/burger-menu.css);
-@import url(blocks/burger-menu/__button/burger-menu__button.css);
-@import url(blocks/burger-menu/__lines/burger-menu__lines.css);
+@import url(blocks/burger-menu/__phone-img.css/burger-menu__phone-img.css);
+@import url(blocks/burger-menu/__block/burger-menu__block.css);
