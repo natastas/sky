@@ -6,3 +6,19 @@
     padding: 0;
     text-align: center;
 }
+
+@media screen and (max-width: 1000px) {
+    .benefits__title-text {
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        margin: 15px auto 15px;
+    }
+  }  
+
+  @media screen and (max-width: 760px) {
+    .benefits__title-text  {
+        font-size: 20px;
+        line-height: 24px;
+    }
+  }  

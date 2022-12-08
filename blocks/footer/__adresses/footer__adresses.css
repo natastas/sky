@@ -1,4 +1,10 @@
 .footer__adresses {
     display: grid;
-   margin-left: 80px;
+    margin-left: 80px;
 }
+
+@media screen and (max-width: 940px) {
+    .footer__adresses {
+        margin-left: 0;
+    }
+  } 

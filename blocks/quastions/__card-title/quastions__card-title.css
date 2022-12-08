@@ -6,3 +6,15 @@
     padding: 0;
     text-align: center;
 }
+
+@media screen and (max-width: 880px) {
+    .quastions__card-title {
+        padding: 0 30px 0;
+  }  
+  }
+
+  @media screen and (max-width: 800px) {
+    .quastions__card-title{
+        margin-top: 0;
+  }  
+}

@@ -8,3 +8,11 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 600px) {
+    .main {
+        max-width: 600px;
+        height: 100%;
+        background-attachment: scroll;
+    }
+  }  

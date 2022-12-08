@@ -8,3 +8,31 @@
     padding-bottom: 75px;
     padding-top: 75px;
 }
+
+@media screen and (max-width: 1180px) {
+    .quastions__title {
+        font-size: 40px;
+        line-height: 45px;
+        padding-bottom: 55px;
+        padding-top: 55px;
+    }
+  }  
+
+  @media screen and (max-width: 980px) {
+    .quastions__title {
+        font-size: 30px;
+        line-height: 35px;
+        padding-bottom: 45px;
+        padding-top: 25px;
+  }  
+  }
+
+  @media screen and (max-width: 600px) {
+    .quastions__title {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 45px;
+        padding-top: 15px;
+        margin: 0;
+  }  
+}

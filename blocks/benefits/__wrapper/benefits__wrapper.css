@@ -1,6 +1,17 @@
 .benefits__wrapper {
-    max-width: 1280px;
+    max-width: 1250px;
     margin: 0 auto;
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding: 70px 15px;
 }
+
+@media screen and (max-width: 1000px) {
+    .benefits__wrapper {
+        padding: 50px 15px;
+    }
+  }  
+
+  @media screen and (max-width: 760px) {
+    .benefits__wrapper {
+        padding: 30px 15px;
+    }
+  }  
