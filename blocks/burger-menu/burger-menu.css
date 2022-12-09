@@ -10,7 +10,7 @@
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #2a2a2a;
+    background-color: #8f16e4;
     transition: 0.7s;
 }
 
@@ -65,7 +65,7 @@
     display: flex;
     flex-flow: column;
     height: 100%;
-    background-color: #2a2a2a;
+    background-color: #8f16e4;
     overflow-y: auto;
     right: -100%;
     transition: 0.7s;
