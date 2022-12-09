@@ -3,7 +3,7 @@
 }
 
 .burger-menu__button {
-    position: fixed;
+    position: absolute;
     top: 15px;
     right: 40px;
     z-index: 30;

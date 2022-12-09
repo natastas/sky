@@ -1,9 +1,18 @@
 .main__div {
-    width: 300px;
+    max-width: 1280px;
+    display: flex;
+    padding-top: 50px;
 }
 
 @media screen and (max-width: 600px) {
     .main__div {
+        margin: 0 auto;
+    }
+  }  
+
+@media screen and (max-width: 806px) {
+    .main__div {
+        display: grid;
         margin: 0 auto;
     }
   }  

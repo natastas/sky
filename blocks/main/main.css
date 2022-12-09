@@ -1,11 +1,8 @@
 .main {
-    max-width: 1444px;
-    height: 1000px;
-    background: url('../../images/photo1.jpg') 50%/cover;
-    background-attachment: fixed;
+    background-color: rgb(242, 240, 238);
+    /* background: url('../../images/photo1.jpg') 50%/cover;
+    background-attachment: fixed; */
     background-repeat: no-repeat; 
-    
-    max-width: 1440px;
     margin: 0 auto;
 }
 

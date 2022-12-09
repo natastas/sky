@@ -14,8 +14,15 @@
 @import url(blocks/main/main.css);
 @import url(blocks/watsapp__button/watsapp__button.css);
 @import url(blocks/watsapp__wrapper/watsapp__wrapper.css);
+@import url(blocks/main/__block-title/main__block-title.css);
 @import url(blocks/main/__title/main__title.css);
+@import url(blocks/main/__phone/main__phone.css);
+@import url(blocks/main/__phone-img/main__phone-img.css);
+@import url(blocks/main/__block/main__block.css);
+@import url(blocks/main/__image/main__image.css);
+@import url(blocks/main/__wrapper/main__wrapper.css);
 @import url(blocks/main/__div/main__div.css);
+@import url(blocks/main/__block-flex/main__block-flex.css);
 @import url(blocks/about/about.css);
 @import url(blocks/about/__wrapper/about__wrapper.css);
 @import url(blocks/about/__text/about__text.css);
