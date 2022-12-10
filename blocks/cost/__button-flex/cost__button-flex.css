@@ -1,0 +1,13 @@
+.cost__button-flex {
+    
+    display: none;
+}
+
+
+@media screen and (max-width: 600px) {
+    .cost__button-flex {
+        display: block;
+        margin: 0 auto;
+        width: 150px;
+    }
+  }  

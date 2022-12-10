@@ -1,0 +1,7 @@
+.cost__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    gap: 50px;
+}

@@ -82,3 +82,13 @@
 @import url(blocks/bank/__title/bank__title.css);
 @import url(blocks/bank/__wrapper/bank__wrapper.css);
 @import url(blocks/bank/__medal-amount/bank__medal-amount.css);
+@import url(blocks/cost/cost.css);
+@import url(blocks/cost/__container/cost__container.css);
+@import url(blocks/cost/__title/cost__title.css);
+@import url(blocks/cost/__wrapper/cost__wrapper.css);
+@import url(blocks/cost/__block/cost__block.css);
+@import url(blocks/cost/__block-img/cost__block-img.css);
+@import url(blocks/cost/__block-text/cost__block-text.css);
+@import url(blocks/cost/__block-title/cost__block-title.css);
+@import url(blocks/cost/__button/cost__button.css);
+@import url(blocks/cost/__button-flex/cost__button-flex.css);
