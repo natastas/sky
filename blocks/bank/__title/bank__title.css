@@ -1,0 +1,17 @@
+.bank__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    padding: 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+    .bank__title {
+
+        font-size: 35px;
+        line-height: 40px;
+
+    }
+  }  

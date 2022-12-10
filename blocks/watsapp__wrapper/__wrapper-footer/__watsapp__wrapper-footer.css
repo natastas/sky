@@ -1,0 +1,9 @@
+.watsapp__wrapper-footer {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

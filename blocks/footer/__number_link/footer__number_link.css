@@ -14,13 +14,13 @@
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 3px;
-    background: #1130df;
+    background: #8f16e4;
     box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
     transition: .3s;
 }
 
 .footer__number_link:hover {
-    background: #1130df;
+    background: #5e0d97;
     box-shadow: 0 15px 20px rgba(17, 2, 104, 0.4);
     color: white;
     transform: translateY(-5px);

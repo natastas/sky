@@ -14,6 +14,7 @@
 @import url(blocks/main/main.css);
 @import url(blocks/watsapp__button/watsapp__button.css);
 @import url(blocks/watsapp__wrapper/watsapp__wrapper.css);
+@import url(blocks/watsapp__wrapper/__wrapper-footer/__watsapp__wrapper-footer.css);
 @import url(blocks/main/__block-title/main__block-title.css);
 @import url(blocks/main/__title/main__title.css);
 @import url(blocks/main/__phone/main__phone.css);
@@ -65,3 +66,19 @@
 @import url(blocks/burger-menu/burger-menu.css);
 @import url(blocks/burger-menu/__phone-img.css/burger-menu__phone-img.css);
 @import url(blocks/burger-menu/__block/burger-menu__block.css);
+@import url(blocks/bank/bank.css);
+@import url(blocks/bank/__container/bank__container.css);
+@import url(blocks/bank/__image-two/bank__image-two.css);
+@import url(blocks/bank/__image/bank__image.css);
+@import url(blocks/bank/__medal/bank__medal.css);
+@import url(blocks/bank/__medals-flex/bank__medals-flex.css);
+@import url(blocks/bank/__medals-title/bank__medals-title.css);
+@import url(blocks/bank/__medals/bank__medals.css);
+@import url(blocks/bank/__rank-amount/bank__rank-amount.css);
+@import url(blocks/bank/__rank/bank__rank.css);
+@import url(blocks/bank/__ranks-flex/bank__ranks-flex.css);
+@import url(blocks/bank/__ranks-title/bank__ranks-title.css);
+@import url(blocks/bank/__ranks/bank__ranks.css);
+@import url(blocks/bank/__title/bank__title.css);
+@import url(blocks/bank/__wrapper/bank__wrapper.css);
+@import url(blocks/bank/__medal-amount/bank__medal-amount.css);

@@ -1,0 +1,7 @@
+.bank__container {
+    display: grid;
+    max-width: 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

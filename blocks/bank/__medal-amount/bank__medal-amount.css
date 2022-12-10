@@ -1,0 +1,31 @@
+.bank__medal-amount {
+    border-radius: 50%;
+    border: gold 6px solid;
+    width: 60px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 40px;
+    color: gold;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 55px;
+}
+
+.bank__medal-amount_silver {
+    border: silver 6px solid;
+    color: silver;
+}
+
+.bank__medal-amount_bronz {
+    border: rgb(99, 67, 25) 6px solid;
+    color: rgb(99, 67, 25);
+}
+
+@media screen and (max-width: 600px) {
+    .bank__medal-amount {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+    }
+  }  
