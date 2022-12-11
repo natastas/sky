@@ -8,3 +8,8 @@
     margin-top: 10px;
     color: black;
 }
+
+.footer__link:hover {
+    cursor: pointer;
+    color: rgb(110, 109, 109);
+}
