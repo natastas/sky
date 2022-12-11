@@ -1,17 +1,16 @@
 .footer__wrapper {
     max-width: 1200px;
-    padding: 50px 40px 50px;
+    padding: 30px 40px;
     display: flex;
+    align-items: center;
+    flex-wrap: wrap;
     margin: 0 auto;
-    justify-content: space-around;
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: contain;
+    color: white;
+    justify-content: space-between;
 }
 
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 475px) {
     .footer__wrapper {
-        display: grid;
-        gap: 50px;
+        padding: 30px 10px;
     }
-  } 
+  }  

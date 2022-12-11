@@ -1,0 +1,15 @@
+.adress__link {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0;
+    margin-top: 10px;
+    color: black;
+}
+
+.adress__link:hover {
+    cursor: pointer;
+    color: rgb(110, 109, 109);
+}

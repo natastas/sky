@@ -1,4 +1,4 @@
-.footer__number_link {
+.adress__number_link {
     color: white;
     font-style: normal;
     font-weight: 500;
@@ -19,7 +19,7 @@
     transition: .3s;
 }
 
-.footer__number_link:hover {
+.adress__number_link:hover {
     background: #5e0d97;
     box-shadow: 0 15px 20px rgba(17, 2, 104, 0.4);
     color: white;
