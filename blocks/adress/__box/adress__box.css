@@ -3,9 +3,15 @@
     flex-wrap: wrap;
     gap: 100px;
     justify-content: space-around;
-    
 }
 
+.maps-two {
+    order: 1;
+}
+
+.adress__box-two {
+    order: 2;
+}
 
 @media screen and (max-width: 1140px) {
     .adress__box {
@@ -17,5 +23,17 @@
 @media screen and (max-width: 1050px) {
     .adress__box {
         gap: 10px;
+    }
+  }  
+
+  @media screen and (max-width: 450px) {
+    .maps-two {
+        order: 2;
+    }
+  }  
+
+  @media screen and (max-width: 450px) {
+    .adress__box-two {
+        order: 1;
     }
   }  
