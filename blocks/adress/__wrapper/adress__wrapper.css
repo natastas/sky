@@ -15,3 +15,9 @@
         gap: 50px;
     }
   } 
+
+  @media screen and (max-width: 600px) {
+    .adress__wrapper {
+        padding: 50px 10px 50px;
+    }
+  } 

@@ -1,0 +1,21 @@
+.adress__box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: space-around;
+    
+}
+
+
+@media screen and (max-width: 1140px) {
+    .adress__box {
+        gap: 50px;
+    }
+  }  
+
+  
+@media screen and (max-width: 1050px) {
+    .adress__box {
+        gap: 10px;
+    }
+  }  

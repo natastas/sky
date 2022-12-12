@@ -1,0 +1,6 @@
+.line {
+    margin: 0 auto;
+    width: 300px;
+    border-bottom: 1px solid grey;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}

@@ -1,10 +1,10 @@
 .adress__adresses {
     display: grid;
-    margin-left: 80px;
+    gap: 100px;
 }
 
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 900px) {
     .adress__adresses {
-        margin-left: 0;
+        gap: 20px;
     }
-  } 
+} 
