@@ -1,0 +1,11 @@
+.document {
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.document:hover {
+    cursor: pointer;
+    color: rgb(110, 109, 109);
+}
