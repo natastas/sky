@@ -1,7 +1,5 @@
 .main {
-    background-color: rgb(242, 240, 238);
-    /* background: url('../../images/photo1.jpg') 50%/cover;
-    background-attachment: fixed; */
+    background: linear-gradient(135deg, rgba(107,184,255,1) 14%, rgba(107,184,255,1) 24%, rgba(82,167,255,1) 39%, rgba(51,146,255,1) 58%, rgba(51,146,255,1) 70%);
     background-repeat: no-repeat; 
     margin: 0 auto;
 }

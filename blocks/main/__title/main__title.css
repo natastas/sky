@@ -5,10 +5,11 @@
     line-height: 70px;
     padding: 0;
     padding-left: 100px;
-    padding-bottom: 75px;
+    padding-bottom: 150px;
     text-align: center;
-    color: #b6aad1;
+    color: #dd15d3;
     margin: 0;
+    max-width: 600px;
 }
 
 @media screen and (max-width: 900px) {
@@ -31,14 +32,8 @@
     }
   }  
 
-/*   @media screen and (max-width: 500px) {
+ @media screen and (max-width: 500px) {
     .main__title {
-        
         font-size: 26px;
-        line-height: 30px;
-        padding-top: 35px;
-        padding-bottom: 35px;
-        height: 500px;
-        text-align: center;
     }
-  }   */
+  }   
