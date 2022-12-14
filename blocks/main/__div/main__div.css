@@ -1,7 +1,8 @@
 .main__div {
     max-width: 1280px;
-   display: flex;
+    display: flex;
     padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 @media screen and (max-width: 600px) {

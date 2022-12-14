@@ -2,3 +2,7 @@
     text-decoration: none;
     color: white;
 }
+
+.footer__link:hover {
+    color: rgba(250, 235, 215, 0.459);
+}
