@@ -1,5 +1,5 @@
 .main__image {
-    
+    order: 2;
     max-width: 600px;
     max-height: 600px;
 }
@@ -23,6 +23,7 @@
         max-width: 400px;
         max-height: 400px;
         margin: 0 auto ;
+        order: 1;
     }
   }  
 

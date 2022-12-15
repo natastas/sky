@@ -15,5 +15,6 @@
     .main__div {
         display: grid;
         margin: 0 auto;
+        padding-top: 10px;
     }
   }  

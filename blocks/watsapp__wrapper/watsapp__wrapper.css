@@ -7,6 +7,14 @@
     justify-content: center;
 }
 
+
+@media screen and (max-width: 800px) {
+  .watsapp__wrapper {
+      
+      padding-top: 0;
+  }
+}  
+
 @media screen and (max-width: 600px) {
   .watsapp__wrapper {
       display: none;

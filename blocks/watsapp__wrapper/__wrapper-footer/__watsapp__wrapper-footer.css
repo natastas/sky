@@ -7,3 +7,13 @@
     justify-content: center;
 }
 
+
+@media screen and (max-width: 806px) {
+    .main__title {
+        max-width: 400px;
+        padding: 0;
+        height: 200px;
+        order: 2;
+    }
+  }  
+
