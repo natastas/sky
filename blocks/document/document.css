@@ -1,14 +1,30 @@
+.document__wrapper {
+    max-width: 650px;
+    margin: 0 auto;
+    text-decoration: none;
+    text-align: center;
+}
+
 .document {
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
     text-align: center;
     color: black;
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding: 30px 15px 20px;
+  
 }
 
 .document:hover {
     cursor: pointer;
     color: rgb(110, 109, 109);
+}
+
+
+
+@media screen and (max-width: 550px) {
+    .document__wrapper {
+        max-width: 350px;
+      
+  }  
 }
